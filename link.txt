@@ -1,0 +1,4 @@
+https://github.com/topics/sign-language-recognition-system
+https://github.com/ayanmaity201/Hand-Sign-DeepNN
+
+https://towardsdatascience.com/sign-language-recognition-in-pytorch-5d72688f98b7
